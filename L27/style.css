@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #000;
+}
+
+h1{
+    font-size: 18vw;
+    line-height: 0.8;
+}
+
+
+/* scroll bar customize */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  /* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgb(255, 255, 255); 
+    border-radius: 10px;
+  }
+
+.nav-link{
+    font-size: 25px;
+    font-weight: 700;
+    color: red;
+  }
